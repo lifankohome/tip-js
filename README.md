@@ -24,16 +24,16 @@ tip(text, top, period, index, side)
 Required parameters:
 
 ```
- + text  : The text you want to show
- + top   : Margin top attribute of text
- + period: Time to display
+text  : (String) The text you want to show
+top   : (String) Margin top attribute of text
+period: (String) Time to display
 ```
 
 Optional parameters:
 
 ```
- + index : z-index attribute of text
- + side  : To show on Left or right
+index : (int) z-index attribute of text
+side  : (boolean) To show on Left or right
 ```
 
 ### Comprehensive example:
