@@ -43,5 +43,4 @@ tip("I will display on right and margin-top 30%  for 2000ms with z-index 1", "30
 ### Special situation:
 
 You may call 'tip' function when a tip text is showing, what would happen under this circumstances?
-
-The later caller will cancel the earlier caller, so the showing text will hide immediately, then the latest 'tip' will show.
+ + The later caller will cancel the earlier caller, so the showing text will hide immediately, then the latest 'tip' will show.
