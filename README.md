@@ -38,7 +38,7 @@ side  : (boolean) To show on Left or right
 
 ### Comprehensive example:
 
-tip("I will display on right and margin-top 30%  for 2000ms with z-index 1", "30%", "1", 2000, true);
+tip("I will display on right and margin-top 30%  for 2000ms with z-index 1", "30%", 2000, "1", true);
 
 ### Special situation:
 
