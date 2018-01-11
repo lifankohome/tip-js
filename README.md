@@ -26,13 +26,13 @@ Required parameters:
 ```
 text  : (String) The text you want to show
 top   : (String) Margin top attribute of text
-period: (String) Time to display
+period: (int) Time to display
 ```
 
 Optional parameters:
 
 ```
-index : (int) z-index attribute of text
+index : (String) z-index attribute of text
 side  : (boolean) To show on Left or right
 ```
 
