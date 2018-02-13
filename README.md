@@ -2,18 +2,18 @@
 
 **A javascript function to show a pretty tip message on browser**
 
+tip.min.js - **ECMASCRIPT5**
+
 ### How to use?
 
 + Link the tip.js/tip.min.js file
 
-+ Add code to HTML:
-```
-<div id="tip"></div>
-```
-
 + Use tip(...) function at script
 
 You may have a look at demo.html if you are really confused.
+
+### CDN:
+http://cdn.lifanko.cn/tip10.min.js
 
 ### Parameter:
 

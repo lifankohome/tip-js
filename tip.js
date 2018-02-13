@@ -1,11 +1,13 @@
 /**
- * tip.js v0.2
+ * tip.js v1.0
  * Created by lifanko on 2017/6/8.
  * https://github.com/lifankohome/tip-js
  */
+document.write("<div id='tip-lifankohome'></div>");
+
 function tip(text, top, period, index, side) {
     var len = text.length + 4;
-    var obj = document.getElementById("tip");
+    var obj = document.getElementById("tip-lifankohome");
     obj.style.textAlign = "center";
     obj.style.position = "fixed";
     obj.style.top = top;
