@@ -1,5 +1,5 @@
 /**
- * tip.js v1.0
+ * tip.js v1.1
  * Created by lifanko on 2017/6/8.
  * https://github.com/lifankohome/tip-js
  */
